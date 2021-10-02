@@ -36,12 +36,12 @@ Equipo de trabajo 2 - Carrera Cloud DevOps EIT
   - borgo-mborgo@proguidemc.com
   - linkedin.com/
   - 
-  - Analista Desarrolador Ssr Full Stack JAVA
+  - 
 - Tania Scortegagna
   - tania.scortegagna@gmail.com
   - https://www.linkedin.com/in/tania-scortegagna/
   - 
-  - Carrera 
+  - Analista Desarrolador Ssr Full Stack JAVA 
 - Tomas Ciccioli
   - tomi.ciccio@gmail.com
   - linkedin.com/
