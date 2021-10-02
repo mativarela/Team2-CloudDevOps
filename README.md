@@ -43,10 +43,10 @@ Equipo de trabajo 2 - Carrera Cloud DevOps EIT
   - Analista Desarrolador Ssr Full Stack JAVA 
   - Carrera DevOps
 - Tomas Ciccioli
-  - tomi.ciccio@gmail.com
+  - tomi.ciccio@hotmail.com
   - linkedin.com/
-  - 
-  - Carrera 
+  - Técnico Electromecanico
+  - Carrera DevOps
 - Nicolas Bullorini
   - nicolas@microblet.com
   - https://www.linkedin.com/in/nbullorini/
