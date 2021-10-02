@@ -40,8 +40,8 @@ Equipo de trabajo 2 - Carrera Cloud DevOps EIT
 - Tania Scortegagna
   - tania.scortegagna@gmail.com
   - https://www.linkedin.com/in/tania-scortegagna/
-  - 
   - Analista Desarrolador Ssr Full Stack JAVA 
+  - Carrera DevOps
 - Tomas Ciccioli
   - tomi.ciccio@gmail.com
   - linkedin.com/
