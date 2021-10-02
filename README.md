@@ -29,9 +29,9 @@ Equipo de trabajo 2 - Carrera Cloud DevOps EIT
   - Carrera 
 - Juan Ignacio Navarro
   - juanignacionavarro95@gmail.com
-  - linkedin.com/
-  - 
-  - Carrera 
+  - https://www.linkedin.com/in/ignacio-navarro-365a11180/
+  - Desarrollador Full Stack Jr
+  - Carrera DevOps
 - Martin Leandro Borgo
   - mborgo@proguidemc.com
   - https://www.linkedin.com/in/martinborgo/
