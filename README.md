@@ -32,11 +32,11 @@ Equipo de trabajo 2 - Carrera Cloud DevOps EIT
   - linkedin.com/
   - 
   - Carrera 
-- Martin Leandro
-  - borgo-mborgo@proguidemc.com
-  - linkedin.com/
-  - 
-  - 
+- Martin Leandro Borgo
+  - mborgo@proguidemc.com
+  - https://www.linkedin.com/in/martinborgo/
+  - Principal Software Engineer
+  - Carrera DevOps
 - Tania Scortegagna
   - tania.scortegagna@gmail.com
   - https://www.linkedin.com/in/tania-scortegagna/
