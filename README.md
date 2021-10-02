@@ -19,9 +19,9 @@ Equipo de trabajo 2 - Carrera Cloud DevOps EIT
   - Carrera 
 - Jonathan Medula
   - jonatha.medula@gmail.com
-  - linkedin.com/
-  - 
-  - Carrera 
+  - https://www.linkedin.com/in/jmedula/
+  - Infraestructura IT
+  - Carrera DevOps
 - Jorge Schelotto
   - jorgealbertoschelotto@gmail.com
   - linkedin.com/
