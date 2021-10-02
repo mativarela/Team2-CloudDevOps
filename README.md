@@ -49,6 +49,6 @@ Equipo de trabajo 2 - Carrera Cloud DevOps EIT
   - Carrera 
 - Nicolas Bullorini
   - nicolas@microblet.com
-  - linkedin.com/
-  - 
-  - Carrera 
+  - https://www.linkedin.com/in/nbullorini/
+  - Director/CEO de Software Factory
+  - Carrera DevOps
