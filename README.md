@@ -24,9 +24,9 @@ Equipo de trabajo 2 - Carrera Cloud DevOps EIT
   - Carrera DevOps
 - Jorge Schelotto
   - jorgealbertoschelotto@gmail.com
-  - linkedin.com/
-  - 
-  - Carrera 
+  - https://www.linkedin.com/in/jorge-schelotto-1a53b42a/
+  - Devops y QA Automation
+  - Devops 
 - Juan Ignacio Navarro
   - juanignacionavarro95@gmail.com
   - https://www.linkedin.com/in/ignacio-navarro-365a11180/
