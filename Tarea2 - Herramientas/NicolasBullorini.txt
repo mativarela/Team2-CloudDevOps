@@ -1,0 +1,14 @@
+Instalar GIT - OK
+  Crear directorio local - OK
+  Clonar este repo - OK
+Instalar VSCode - OK
+  Sincronizarlo con el repo de GitHub - OK
+  Plugin Terraform - OK
+  Plugin HTML Mark - OK
+  Plugin IntelliSence y Snippets - OK
+  Plugin JS - OK
+  Plugin Node - OK 
+  Plugin React - OK
+Instalar NodeJS - OK
+  Modulos ReactJS - OK
+  Modulo Express - OK
