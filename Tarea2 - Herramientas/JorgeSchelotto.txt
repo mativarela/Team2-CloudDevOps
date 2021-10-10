@@ -9,5 +9,5 @@ Instalar VSCode - OK
   Plugin Node - OK 
   Plugin React - OK
 Instalar NodeJS - OK
-  Modulos ReactJS -
-  Modulo Express -
+  Modulos ReactJS - OK
+  Modulo Express - OK
