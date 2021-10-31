@@ -36,9 +36,9 @@ resource "aws_security_group" "main" {
 }
 
 resource "aws_instance" "main" {
-  ami = "ami-03a22948fd3ef700b"
+  ami = "ami-0fcc151e2f886a5d2"
   instance_type = "t2.micro"
-  availability_zone = "sa-east-1b"
+  availability_zone = "sa-east-1c"
   
   vpc_security_group_ids = ["${aws_security_group.main.id}"]
   
