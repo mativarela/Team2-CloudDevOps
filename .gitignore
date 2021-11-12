@@ -1,0 +1,18 @@
+_misc/
+Martin Borgo/Tarea 3/WIN2019/.terraform/providers/registry.terraform.io/hashicorp/aws/3.63.0/linux_amd64/terraform-provider-aws_v3.63.0_x5
+Martin Borgo/Tarea 3/WIN2012/.terraform/providers/registry.terraform.io/hashicorp/aws/3.63.0/linux_amd64/terraform-provider-aws_v3.63.0_x5
+Martin Borgo/Tarea 3/WIN2016/access.tf
+Martin Borgo/Tarea 3/WIN2019/access.tf
+Martin Borgo/Tarea 3/WIN2012/access.tf
+Tarea 3 - AWS/WIN2012/access.tf
+Tarea 3 - AWS/WIN2012/.terraform.lock.hcl
+Tarea 3 - AWS/WIN2012/.terraform/providers/registry.terraform.io/hashicorp/aws/3.63.0/linux_amd64/terraform-provider-aws_v3.63.0_x5
+Tarea 3 - AWS/WIN2012/terraform.tfstate.backup
+Tarea 3 - AWS/WIN2012/terraform.tfstate
+Tarea 3 - AWS/WIN2016/access.tf
+Tarea 3 - AWS/WIN2016/terraform.tfstate
+Tarea 3 - AWS/WIN2016/terraform.tfstate.backup
+Tarea 3 - AWS/WIN2019/terraform.tfstate
+Tarea 3 - AWS/WIN2019/terraform.tfstate.backup
+Tarea 3 - AWS/WIN2019/.terraform/providers/registry.terraform.io/hashicorp/aws/3.63.0/linux_amd64/terraform-provider-aws_v3.63.0_x5
+Tarea 3 - AWS/WIN2019/access.tf
