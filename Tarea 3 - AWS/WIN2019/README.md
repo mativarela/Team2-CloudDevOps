@@ -46,5 +46,7 @@
 
 ![images/12.terraform-kubernetes.png](images/12.terraform-kubernetes.png)
 
-- [x] Creacion de AMI
+- [x] Fondo de pantalla
+
+![images/13.background.png](images/13.background.png)
 
