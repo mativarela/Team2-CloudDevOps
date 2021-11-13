@@ -5,11 +5,11 @@ provider "aws" {
 }
 
 variable "name" {
-  default = "AWS_WIN2012"
+  default = "AWS_IIS_WIN2019"
 }
 
 resource "aws_key_pair" "main" {
-  key_name   = "clouddevops"
+  key_name   = "clouddevopsiis"
   public_key = "${file("clouddevops.pub")}"
 }
 
@@ -26,6 +26,20 @@ resource "aws_security_group" "main" {
     protocol = "tcp"
     cidr_blocks = ["0.0.0.0/0"]
   }
+
+  ingress {
+    from_port = 80
+    to_port = 80
+    protocol = "tcp"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
+  
+  ingress {
+    from_port = 443
+    to_port = 443
+    protocol = "tcp"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
   
   egress {
     from_port = 0
@@ -36,28 +50,26 @@ resource "aws_security_group" "main" {
 }
 
 resource "aws_instance" "main" {
-  ami = "ami-0eec7bffc1e0ef2e6"
+  ami = "ami-048fe32495ea857a6"
   instance_type = "t2.micro"
-  # availability_zone = "sa-east-1b"
-  
+
   vpc_security_group_ids = ["${aws_security_group.main.id}"]
   
   key_name = "${aws_key_pair.main.key_name}"
   
   root_block_device {
-    volume_type = "standard"
+    volume_type = "gp3"
     volume_size = "30"
     delete_on_termination = true
   }
 
   tags = {
     "Name" = "InstanciaCloudDevopsTeam2",
-    "Año" = "2021",
-    "SO" = "Windows Server 2012",
-    "Equipo" = "Team2",
+    "Tipo" = "InstanciaWebServer",
+    "SO" = "Windows Server2019",
+    "Equipo" = "CloudDevopsTeam2",
     "Carrera" = "CloudDevOps",
     "Institución" = "EducacionIT",
-    "Proyecto" = "CloudDevOps",
-    "Entorno" = "Stage"
+    "Environment" = "Pre-Production"
   }
 }
